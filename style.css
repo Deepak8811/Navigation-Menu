@@ -22,7 +22,9 @@ body{
     box-shadow: 10px 0 0 #4187f6;
     border-left: 10px solid #2b343b;
     overflow-x: hidden;
-    transition: width 0.5s;
+    /* transition: width 0.3s; */
+      transition: all 0.5s;
+
  
 }
 .navigation:hover{
